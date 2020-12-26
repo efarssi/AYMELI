@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AymeliCode"
+    }
+  },
+  "defaultProject": "AymeliCode",
+  "cli": {
+    "analytics": "a66f7fc8-f2e3-4986-b263-faccf1999505"
+  }
 }
