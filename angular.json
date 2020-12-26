@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/custom-theme.scss",
               "src/styles.css"
             ],
             "scripts": []
@@ -123,6 +124,10 @@
   },
   "defaultProject": "AymeliCode",
   "cli": {
+<<<<<<< HEAD
     "analytics": "a66f7fc8-f2e3-4986-b263-faccf1999505"
+=======
+    "analytics": "204bb780-9497-48ca-a834-a80f22396b93"
+>>>>>>> 10cf3de0ef1e259c33d444a6d6d8b2c58f162ff1
   }
 }
